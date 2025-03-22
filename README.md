@@ -25,6 +25,3 @@ Mi nombre es **Leyton** y estoy interesado en **MLOps** e **Ingeniería de datos
   <img src="https://github-readme-stats.vercel.app/api?username=ljpiere&show_icons=true&theme=dark" height="160" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljpiere&layout=compact&theme=dark" height="160" alt="Lenguajes más usados" />
 </div>
-
-¡Gracias por visitar mi perfil! 
-Siéntete libre de contactarme para colaborar en proyectos de MLOps, educación o simplemente para compartir ideas.
