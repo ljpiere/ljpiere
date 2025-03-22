@@ -4,19 +4,16 @@
 -->
 
 # ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-Mi nombre es **Miguel** y estoy interesado en **educación** <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="25px"/>
+Mi nombre es **Leyton** y estoy interesado en **educación** <img src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png" width="25px"/>
 
 ---
 
 ### Sobre mí
 
-- ⚒️ Actualmente trabajando en proyectos de **MLOps** en la mejor empresa cervecera a nivel mundial.
-- 🚀 Me encanta aprender. Estoy interesado en **crecimiento personal**, **tecnología** y **navegación**.
-- 🏊‍♂️ 🚴 🏃 Entrenando para un **Ironman 70.3**.
-- 🔥 Organizador de comunidades de **Apache Spark** en:
-  - **Colombia** 
-  - **México**
-- 🌐 Organizador de la comunidad de **MLOps Bogotá** en Colombia.
+- ⚒️ Actualmente trabajando como **Data Engineer** en la mejor banco de Canadá.
+- 🚀 Me gusta enseñar, y también aprender. Estoy interesado en **crecimiento personal**, **tecnología** y **navegación**.
+- 🏊‍♂️ 🚴 🏃 Entrenando para user **Tri atleta**.
+- 🔥 Parte del staff de Data en Tripleten.
 
 ---
 
@@ -30,15 +27,15 @@ Mi nombre es **Miguel** y estoy interesado en **educación** <img src="https://e
 
 ### Conecta conmigo
 
-- [LinkedIn](#) <!-- Cambia # por tu enlace de LinkedIn -->
-- [Twitter](#)  <!-- Cambia # por tu enlace de Twitter -->
-- [Blog personal](#) <!-- Cambia # por tu blog personal, si tienes -->
+- [LinkedIn](https://www.linkedin.com/in/ljpcastroc/) <!-- Cambia # por tu enlace de LinkedIn -->
+- [Twitter](https://x.com/jpiere_co)  <!-- Cambia # por tu enlace de Twitter -->
+- [Blog personal](ljpiere.github.io) <!-- Cambia # por tu blog personal, si tienes -->
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" height="160" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" height="160" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ljpiere&show_icons=true&theme=dark" height="160" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljpiere&layout=compact&theme=dark" height="160" alt="Lenguajes más usados" />
 </div>
 
 <!-- 
