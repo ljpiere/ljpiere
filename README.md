@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning DevOps<br>🎯 Goals: Create my first SaaS and do an IRONMAN.<br>🎲 Fun fact:I’m trying to memorize the first 100 digits of pi.</p>
+<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning DevOps<br>🎯 Goals: Create my first SaaS and do an IRONMAN.<br>🎲 Fun fact: I’m trying to memorize the first 100 digits of pi.</p>
 
 ###
 
